@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\zaddom\zaddom\bin\Debug\zaddom.exe.config
+D:\VisualStudio\repos\zaddom\zaddom\bin\Debug\zaddom.exe
+D:\VisualStudio\repos\zaddom\zaddom\bin\Debug\zaddom.pdb
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.Form1.resources
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.Properties.Resources.resources
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.csproj.GenerateResource.cache
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.exe
+D:\VisualStudio\repos\zaddom\zaddom\obj\Debug\zaddom.pdb
