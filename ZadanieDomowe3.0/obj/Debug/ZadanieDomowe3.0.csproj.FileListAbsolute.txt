@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\ZadanieDomowe3.0\bin\Debug\ZadanieDomowe3.0.exe.config
+D:\VisualStudio\repos\ZadanieDomowe3.0\bin\Debug\ZadanieDomowe3.0.exe
+D:\VisualStudio\repos\ZadanieDomowe3.0\bin\Debug\ZadanieDomowe3.0.pdb
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3._0.Form1.resources
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3._0.Properties.Resources.resources
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.GenerateResource.cache
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.exe
+D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.pdb
