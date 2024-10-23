@@ -97,12 +97,12 @@ namespace ZadanieDomowe3._0
             count--;
         }
 
-        public void Get(int n)
+        public Node Get(int n)
         {
             if (count==0 || n > count)
             {
                 MessageBox.Show("Pozadana pozycja jest poza lista");
-                return;
+                return null;
             }
             Node nodeCheck = head;
             for (int i = 0; i < n; i++)
@@ -110,10 +110,17 @@ namespace ZadanieDomowe3._0
                 if (i == n - 1)
                 {
                     MessageBox.Show(nodeCheck.data.ToString());
-                    return;
+                    return nodeCheck;
                 }
                 nodeCheck = nodeCheck.next;
             }
+            return null;
         }
+
+        public string CreateString()
+        {
+            return " ";
+        }
+
     }
 }

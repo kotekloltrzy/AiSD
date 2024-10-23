@@ -8,3 +8,14 @@ D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.Generat
 D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.CoreCompileInputs.cache
 D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.exe
 D:\VisualStudio\repos\ZadanieDomowe3.0\obj\Debug\ZadanieDomowe3.0.pdb
+D:\174748\zadaniedomowe3.0\bin\Debug\ZadanieDomowe3.0.exe.config
+D:\174748\zadaniedomowe3.0\bin\Debug\ZadanieDomowe3.0.exe
+D:\174748\zadaniedomowe3.0\bin\Debug\ZadanieDomowe3.0.pdb
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.AssemblyReference.cache
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.SuggestedBindingRedirects.cache
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3._0.Form1.resources
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3._0.Properties.Resources.resources
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.GenerateResource.cache
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.csproj.CoreCompileInputs.cache
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.exe
+D:\174748\zadaniedomowe3.0\obj\Debug\ZadanieDomowe3.0.pdb
