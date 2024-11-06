@@ -1,0 +1,11 @@
+D:\174748\Drzewko\bin\Debug\Drzewko.exe.config
+D:\174748\Drzewko\bin\Debug\Drzewko.exe
+D:\174748\Drzewko\bin\Debug\Drzewko.pdb
+D:\174748\Drzewko\obj\Debug\Drzewko.csproj.AssemblyReference.cache
+D:\174748\Drzewko\obj\Debug\Drzewko.csproj.SuggestedBindingRedirects.cache
+D:\174748\Drzewko\obj\Debug\Drzewko.Form1.resources
+D:\174748\Drzewko\obj\Debug\Drzewko.Properties.Resources.resources
+D:\174748\Drzewko\obj\Debug\Drzewko.csproj.GenerateResource.cache
+D:\174748\Drzewko\obj\Debug\Drzewko.csproj.CoreCompileInputs.cache
+D:\174748\Drzewko\obj\Debug\Drzewko.exe
+D:\174748\Drzewko\obj\Debug\Drzewko.pdb
