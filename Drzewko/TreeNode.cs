@@ -12,11 +12,19 @@ namespace Drzewko
         public int data;
         public TreeNode RightNode;
         public TreeNode LeftNode;
+        public TreeNode Parent;
 
         public TreeNode(int value)
         {
             data = value;
         }
+
+        public TreeNode(int value, TreeNode parent)
+        {
+            data = value;
+            Parent = parent;
+        }
+
         public void Insert(int value)
         {
             if(value >= data)
