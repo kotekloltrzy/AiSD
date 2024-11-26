@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Grafy_wstep
+{
+    internal class Graf
+    {
+        List<NodeG> nodes = new List<NodeG>();
+        public NodeG node;
+
+        public void AddNode(int data)
+        {
+
+        }
+
+    }
+}
