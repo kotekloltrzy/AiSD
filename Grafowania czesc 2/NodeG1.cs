@@ -8,7 +8,7 @@ namespace Grafowania_czesc_2
 {
     public class NodeG1
     {
-        int data;
+        public int data;
 
         public NodeG1(int data)
         {
