@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\FinalPróba\bin\Debug\FinalPróba.exe.config
+D:\VisualStudio\repos\FinalPróba\bin\Debug\FinalPróba.exe
+D:\VisualStudio\repos\FinalPróba\bin\Debug\FinalPróba.pdb
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.Form1.resources
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.Properties.Resources.resources
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.csproj.GenerateResource.cache
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.exe
+D:\VisualStudio\repos\FinalPróba\obj\Debug\FinalPróba.pdb
