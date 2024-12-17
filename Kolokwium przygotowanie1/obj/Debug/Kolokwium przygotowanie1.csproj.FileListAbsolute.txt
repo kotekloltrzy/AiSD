@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\Kolokwium przygotowanie1\bin\Debug\Kolokwium przygotowanie1.exe.config
+D:\VisualStudio\repos\Kolokwium przygotowanie1\bin\Debug\Kolokwium przygotowanie1.exe
+D:\VisualStudio\repos\Kolokwium przygotowanie1\bin\Debug\Kolokwium przygotowanie1.pdb
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium przygotowanie1.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium_przygotowanie1.Form1.resources
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium_przygotowanie1.Properties.Resources.resources
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium przygotowanie1.csproj.GenerateResource.cache
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium przygotowanie1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium przygotowanie1.exe
+D:\VisualStudio\repos\Kolokwium przygotowanie1\obj\Debug\Kolokwium przygotowanie1.pdb
